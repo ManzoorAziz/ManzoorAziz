@@ -1,1 +1,1 @@
-Hi, this is Manzoor. I am data science and business analytics learner. You can find here some old and new fashion tools, code and resources about python, market research, data analysis and analytics. 
+
